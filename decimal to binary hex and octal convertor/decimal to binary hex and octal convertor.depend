@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1583592852 source:c:\users\drops\onedrive\desktop\projects c\decimal to binary hex and octal convertor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"convert_to_binary.c"
+	"convert_to_hex.c"
+	"convert_to_octal.c"
+
+1583592638 c:\users\drops\onedrive\desktop\projects c\decimal to binary hex and octal convertor\convert_to_binary.c
+
+1583592852 c:\users\drops\onedrive\desktop\projects c\decimal to binary hex and octal convertor\convert_to_hex.c
+
+1583593321 c:\users\drops\onedrive\desktop\projects c\decimal to binary hex and octal convertor\convert_to_octal.c
+
